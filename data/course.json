@@ -1,19 +1,23 @@
 {
   "term": "Fall",
   "year": "2021",
-  "level": [],
+  "level": [
+    "Undergraduate"
+  ],
   "topics": [],
   "legacy_uid": "",
   "instructors": {
-    "content": [],
-    "website": "magic-science-and-religion"
+    "content": [
+      "7768c26c-eca1-2f3a-74e6-dda1ddb5c354"
+    ],
+    "website": "ocw-www"
   },
   "course_image": {
     "content": "",
     "website": "magic-science-and-religion"
   },
   "course_title": "Magic, Science, and Religion",
-  "course_description": "",
+  "course_description": "This course explores the origins of magic, science, and religion as forms of belief within and across cultures. It addresses the place of rationality and belief in competing sociocultural theories, with a focus on analyzing modern perspectives. It also examines how cases of overlap between magic, science, and religion raise new questions about modernity and human nature.",
   "department_numbers": [
     "21A"
   ],
