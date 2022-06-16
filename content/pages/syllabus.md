@@ -20,8 +20,8 @@ This course explores magic, science, and religion as systems of explaining and c
 
 ## Code of Conduct
 
-Anthropology is a social science governed by a professional Code of Ethics. It enjoins all researchers to respect the dignity of the human beings who are the subjects of their research. In this class, we will encounter diverse systems of belief, some of which we will inevitably disagree with. As students of anthropology, it is important that we use empathy as a resource for understanding the reasons why people maintain beliefs different form our own. It is also a    
-requirement for this class that we extend this same principle to each other as seminar participants    
+Anthropology is a social science governed by a professional Code of Ethics. It enjoins all researchers to respect the dignity of the human beings who are the subjects of their research. In this class, we will encounter diverse systems of belief, some of which we will inevitably disagree with. As students of anthropology, it is important that we use empathy as a resource for understanding the reasons why people maintain beliefs different form our own. It is also a     
+requirement for this class that we extend this same principle to each other as seminar participants     
 with sometimes differing viewpoints.
 
 ## Required Reading
