@@ -5,3 +5,174 @@ draft: false
 title: Readings
 uid: 4c1b8511-82a5-46ae-8ab2-cca0ac0322b9
 ---
+{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
+SES #
+{{< thclose >}}{{< thopen >}}
+TOPICS
+{{< thclose >}}{{< thopen >}}
+READINGS
+{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen colspan="3" >}}
+**Week 1**
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
+1
+{{< tdclose >}}{{< tdopen >}}
+Introduction
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
+**Week 2**
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
+2
+{{< tdclose >}}{{< tdopen >}}
+What does it mean to *believe* something? (1)
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
+3
+{{< tdclose >}}{{< tdopen >}}
+What does it mean to *believe* something? (2)
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
+**Week 3**
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
+4
+{{< tdclose >}}{{< tdopen >}}
+Enchantment and Disenchantment: Does reason progress? (1)
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
+5
+{{< tdclose >}}{{< tdopen >}}
+Enchantment and Disenchantment: Does reason progress? (2)
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
+**Week 4**
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
+6
+{{< tdclose >}}{{< tdopen >}}
+Is magic a form of technology? (1)
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
+7
+{{< tdclose >}}{{< tdopen >}}
+Is magic a form of technology? (2)
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
+**Week 5**
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
+8
+{{< tdclose >}}{{< tdopen >}}
+Is technology a form of magic? (1)
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
+9
+{{< tdclose >}}{{< tdopen >}}
+Is technology a form of magic? (2)
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
+**Week 6**
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
+10
+{{< tdclose >}}{{< tdopen >}}
+Mediation: How is faith made real? (1)
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
+11
+{{< tdclose >}}{{< tdopen >}}
+Mediation: How is faith made real? (2)
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
+**Week 7**
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
+12
+{{< tdclose >}}{{< tdopen >}}
+Orthodoxy and Heterodoxy: Who controls belief? (1)
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
+13
+{{< tdclose >}}{{< tdopen >}}
+Orthodoxy and Heterodoxy: Who controls belief? (2)
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
+**Week 8**
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
+14
+{{< tdclose >}}{{< tdopen >}}
+Can magic disenchant? (1)
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
+15
+{{< tdclose >}}{{< tdopen >}}
+Can magic disenchant? (2)
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
+**Week 9**
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
+16
+{{< tdclose >}}{{< tdopen >}}
+How do magicians learn to deceive? (1)
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
+17
+{{< tdclose >}}{{< tdopen >}}
+How do magicians learn to deceive? (2)
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
+**Week 10**
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
+18
+{{< tdclose >}}{{< tdopen >}}
+Can you believe your eyes!?
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
+**Week 11**
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
+19
+{{< tdclose >}}{{< tdopen >}}
+How do new religious movements form? (1)
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
+20
+{{< tdclose >}}{{< tdopen >}}
+How do new religious movements form? (2)
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
+**Week 12**
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
+21
+{{< tdclose >}}{{< tdopen >}}
+Conspiricism and Denialism: Why do people reject science?
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
+**Week 13**
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
+22
+{{< tdclose >}}{{< tdopen >}}
+Can Spirituality and Science be reconciled? (1)
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
+23
+{{< tdclose >}}{{< tdopen >}}
+Can Spirituality and Science be reconciled? (2)
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
