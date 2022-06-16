@@ -20,10 +20,48 @@ This course explores magic, science, and religion as systems of explaining and c
 
 ## Code of Conduct
 
-Anthropology is a social science governed by a professional Code of Ethics. It enjoins all researchers to respect the dignity of the human beings who are the subjects of their research. In this class, we will encounter diverse systems of belief, some of which we will inevitably disagree with. As students of anthropology, it is important that we use empathy as a resource for understanding the reasons why people maintain beliefs different form our own. It is also a  
-requirement for this class that we extend this same principle to each other as seminar participants  
+Anthropology is a social science governed by a professional Code of Ethics. It enjoins all researchers to respect the dignity of the human beings who are the subjects of their research. In this class, we will encounter diverse systems of belief, some of which we will inevitably disagree with. As students of anthropology, it is important that we use empathy as a resource for understanding the reasons why people maintain beliefs different form our own. It is also a   
+requirement for this class that we extend this same principle to each other as seminar participants   
 with sometimes differing viewpoints.
 
 ## Required Reading
 
 Students are expected to read two research articles or book chapters a week and come to the first seminar of the week prepared to discuss them. Research articles average around 12 pages of small-font text (plus citations, figures…). Book chapters average around 24 pages of large-font text (plus citations, figures…). All required readings are available in the {{% resource_link "4c1b8511-82a5-46ae-8ab2-cca0ac0322b9" "Readings" %}} section.
+
+## Grading Policy
+
+{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
+**ACTIVITIES**
+{{< thclose >}}{{< thopen >}}
+**PERCENTAGES**
+{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
+Short paper 1
+{{< tdclose >}}{{< tdopen >}}
+10%
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
+Video presentation 1
+{{< tdclose >}}{{< tdopen >}}
+5%
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
+Short papers 2–4
+{{< tdclose >}}{{< tdopen >}}
+30% (3 x 10%)
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
+Video presentations 2–4
+{{< tdclose >}}{{< tdopen >}}
+15% (3 x 5%)
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
+Final paper
+{{< tdclose >}}{{< tdopen >}}
+20%
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
+Final video presentation
+{{< tdclose >}}{{< tdopen >}}
+10%
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
+Participation and attendance
+{{< tdclose >}}{{< tdopen >}}
+10%
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
+
+For more detail on the activities above, see the {{% resource_link "322e6fa2-43a5-4405-a3c5-16648eed2c51" "Assignments" %}} section.
