@@ -27,10 +27,10 @@ No readings assigned
 What does it mean to *believe* something? (1)
 {{< tdclose >}}{{< tdopen >}}
 
-Fernando, Mayanthi L. [“Reconfiguring Freedom: Muslim Piety and the Limits of Secular Law and Public Discourse in France.” (PDF)](https://anthrosource.onlinelibrary.wiley.com/doi/pdf/10.1111/j.1548-1425.2010.01239.x) *American Ethnologist* 37, no. 1 (2010): 19–35.
+Fernando, Mayanthi L. “[Reconfiguring Freedom: Muslim Piety and the Limits of Secular Law and Public Discourse in France](https://anthrosource.onlinelibrary.wiley.com/doi/full/10.1111/j.1548-1425.2010.01239.x).”  *American Ethnologist* 37, no. 1 (2010): 19–35.
 
-Harding, Susan F. [“Convicted by the Holy Spirit: The Rhetoric of](https://anthrosource.onlinelibrary.wiley.com/doi/pdf/10.1525/ae.1987.14.1.02a00100)  
-[Fundamental Baptist Conversion.” (PDF)](https://anthrosource.onlinelibrary.wiley.com/doi/pdf/10.1525/ae.1987.14.1.02a00100) *American Ethnologist* 14, no. 1 (1987): 167–81.
+Harding, Susan. “[Convicted by the Holy Spirit: The Rhetoric of](https://anthrosource.onlinelibrary.wiley.com/doi/10.1525/ae.1987.14.1.02a00100)  
+[Fundamental Baptist Conversion](https://anthrosource.onlinelibrary.wiley.com/doi/10.1525/ae.1987.14.1.02a00100).” *American Ethnologist* 14, no. 1 (1987): 167–81.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
