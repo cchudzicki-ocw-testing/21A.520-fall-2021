@@ -144,7 +144,11 @@ How do magicians learn to deceive? (1)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 17
 {{< tdclose >}}{{< tdopen >}}
+
 How do magicians learn to deceive? (2)
+
+*In class: Magic Performance workshop with Nemo*
+
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
@@ -152,9 +156,13 @@ How do magicians learn to deceive? (2)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 18
 {{< tdclose >}}{{< tdopen >}}
+
 Can you believe your eyes!?
+
+*In class: Performance and talk by magician* [*Joel Acevedo*](https://www.joel-magic.com/)
+
 {{< tdclose >}}{{< tdopen >}}
- 
+Paper 4 due: Magic Performance
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Week 11**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
