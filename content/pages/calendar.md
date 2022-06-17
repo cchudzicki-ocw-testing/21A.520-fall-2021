@@ -30,9 +30,13 @@ What does it mean to *believe* something? (1)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
 {{< tdclose >}}{{< tdopen >}}
+
 What does it mean to *believe* something? (2)
+
+*Introductory presentations (1–2 minutes prerecorded)*
+
 {{< tdclose >}}{{< tdopen >}}
- 
+Paper 1 due: Science Autoethnography
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Week 3**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
