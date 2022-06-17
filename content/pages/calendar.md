@@ -62,7 +62,11 @@ Is magic a form of technology? (1)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
 {{< tdclose >}}{{< tdopen >}}
+
 Is magic a form of technology? (2)
+
+*In class: Divination workshop with Peter Bebergal*
+
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
@@ -76,9 +80,13 @@ Is technology a form of magic? (1)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
 {{< tdclose >}}{{< tdopen >}}
+
 Is technology a form of magic? (2)
+
+*In class: Demonstrations of magical technologies \[1–2 minutes prerecorded\]*
+
 {{< tdclose >}}{{< tdopen >}}
- 
+Paper 2 due: Magical Technology
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Week 6**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
