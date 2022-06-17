@@ -174,7 +174,11 @@ How do new religious movements form? (1)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 20
 {{< tdclose >}}{{< tdopen >}}
+
 How do new religious movements form? (2)
+
+*In class: Magic performance presentations \[1–2 minutes prerecorded\]*
+
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
@@ -182,7 +186,7 @@ How do new religious movements form? (2)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 21
 {{< tdclose >}}{{< tdopen >}}
-Conspiricism and Denialism: Why do people reject science?
+Conspiracism and Denialism: Why do people reject science?
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
@@ -196,21 +200,19 @@ Can Spirituality and Science be reconciled? (1)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 23
 {{< tdclose >}}{{< tdopen >}}
+
 Can Spirituality and Science be reconciled? (2)
+
+*In class: Meet at* [*MIT Chapel*](https://studentlife.mit.edu/cac/event-services-spaces/event-spaces/mit-chapel) *for conversation with Institute chaplains*
+
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Week 14**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-24
+24 / 25
 {{< tdclose >}}{{< tdopen >}}
-Final paper presentations (1)
+Final paper presentations 
 {{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-25
-{{< tdclose >}}{{< tdopen >}}
-Final paper presentations (2)
-{{< tdclose >}}{{< tdopen >}}
- 
+Final paper due
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
