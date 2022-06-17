@@ -112,9 +112,13 @@ Orthodoxy and Heterodoxy: Who controls belief? (1)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
 {{< tdclose >}}{{< tdopen >}}
+
 Orthodoxy and Heterodoxy: Who controls belief? (2)
+
+*In class: Modern Enchantments presentations \[1–2 minutes prerecorded\]*
+
 {{< tdclose >}}{{< tdopen >}}
- 
+Paper 3 due: Modern Enchantments
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Week 8**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
