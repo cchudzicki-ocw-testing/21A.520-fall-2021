@@ -29,7 +29,7 @@ What does it mean to *believe* something? (1)
 
 Fernando, Mayanthi L. “[Reconfiguring Freedom: Muslim Piety and the Limits of Secular Law and Public Discourse in France](https://anthrosource.onlinelibrary.wiley.com/doi/full/10.1111/j.1548-1425.2010.01239.x).”  *American Ethnologist* 37, no. 1 (2010): 19–35.
 
-Harding, Susan. “[Convicted by the Holy Spirit: The Rhetoric](https://anthrosource.onlinelibrary.wiley.com/doi/10.1525/ae.1987.14.1.02a00100) of [Fundamental Baptist Conversion](https://anthrosource.onlinelibrary.wiley.com/doi/10.1525/ae.1987.14.1.02a00100).” *American Ethnologist* 14, no. 1 (1987): 167–81.
+Harding, Susan. “[Convicted by the Holy Spirit: The Rhetoric of Fundamental Baptist Conversion](https://anthrosource.onlinelibrary.wiley.com/doi/10.1525/ae.1987.14.1.02a00100).” *American Ethnologist* 14, no. 1 (1987): 167–81.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
@@ -125,11 +125,10 @@ Mediation: How is faith made real? (2)
 Orthodoxy and Heterodoxy: Who controls belief? (1)
 {{< tdclose >}}{{< tdopen >}}
 
-Chireau, Yvonne. “[Conjure and Christianity in the Nineteenth Century:](https://www.cambridge.org/core/journals/religion-and-american-culture/article/abs/conjure-and-christianity-in-the-nineteenth-century-religious-elements-in-african-american-magic/4EA31D87FF0CB9BC7DAA0CE58E220D8C#)            
+Chireau, Yvonne. “[Conjure and Christianity in the Nineteenth Century:](https://www.cambridge.org/core/journals/religion-and-american-culture/article/abs/conjure-and-christianity-in-the-nineteenth-century-religious-elements-in-african-american-magic/4EA31D87FF0CB9BC7DAA0CE58E220D8C#)             
 [Religious Elements in African American Magic](https://www.cambridge.org/core/journals/religion-and-american-culture/article/abs/conjure-and-christianity-in-the-nineteenth-century-religious-elements-in-african-american-magic/4EA31D87FF0CB9BC7DAA0CE58E220D8C#).” *Religion and American* *Culture* 7, no. 2 (1997): 225–46.
 
-Fader, Ayala. “[The Counterpublic of the J(ewish) Blogosphere: Gendered](https://rai.onlinelibrary.wiley.com/doi/10.1111/1467-9655.12697)           
-[Language and the Mediation of Religious Doubt among Ultra-Orthodox Jews in](https://rai.onlinelibrary.wiley.com/doi/10.1111/1467-9655.12697) [New York](https://rai.onlinelibrary.wiley.com/doi/10.1111/1467-9655.12697).” *Journal of the Royal Anthropological Institute* 23, no. 4 (2017): 727–47.
+Fader, Ayala. “[The Counterpublic of the J(ewish) Blogosphere: Gendered Language and the Mediation of Religious Doubt among Ultra-Orthodox Jews in New York](https://rai.onlinelibrary.wiley.com/doi/10.1111/1467-9655.12697).” *Journal of the Royal Anthropological Institute* 23, no. 4 (2017): 727–47.
 
 Heterodoxy and Orthodoxy class notes (PDF)
 
@@ -147,10 +146,10 @@ No readings assigned
 Can magic disenchant? (1)
 {{< tdclose >}}{{< tdopen >}}
 
-Binder, Stefan. “[Magic is Science: Atheist Conjuring and the Exposure of](https://www.journals.uchicago.edu/doi/abs/10.1086/705467)         
+Binder, Stefan. “[Magic is Science: Atheist Conjuring and the Exposure of](https://www.journals.uchicago.edu/doi/abs/10.1086/705467)          
 [Superstition in South India](https://www.journals.uchicago.edu/doi/abs/10.1086/705467).” *HAU: Journal of Ethnographic Theor*y 9, no. 2 (2019): 284–98.
 
-Jones, Graham M. “[Modern Magic and the War on Miracles in French](https://www.cambridge.org/core/journals/comparative-studies-in-society-and-history/article/modern-magic-and-the-war-on-miracles-in-french-colonial-culture/1A328B6DB2FCFC71D9756C675228ED0A)        
+Jones, Graham M. “[Modern Magic and the War on Miracles in French](https://www.cambridge.org/core/journals/comparative-studies-in-society-and-history/article/modern-magic-and-the-war-on-miracles-in-french-colonial-culture/1A328B6DB2FCFC71D9756C675228ED0A)         
 [Colonial Culture](https://www.cambridge.org/core/journals/comparative-studies-in-society-and-history/article/modern-magic-and-the-war-on-miracles-in-french-colonial-culture/1A328B6DB2FCFC71D9756C675228ED0A).” *Comparative Studies in Society and History* 52, no. 1 (2010): 66–99.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
