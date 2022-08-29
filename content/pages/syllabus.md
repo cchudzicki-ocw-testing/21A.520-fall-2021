@@ -6,22 +6,22 @@ draft: false
 title: Syllabus
 uid: 7ecebe09-3126-4a80-b4f4-b3214c68abd6
 ---
-#### COURSE MEETING TIMES
+#### Course Meeting Times
 
 Seminars: 2 sessions / week, 1.5 hours / session
 
-#### PREREQUISITES
+#### Prerequisites
 
 There are no prerequisites for this course.
 
-#### COURSE DESCRIPTION
+#### Course Description
 
 This course explores magic, science, and religion as systems of explaining and controlling events. How do these belief systems develop, evolve, and function in the practice of everyday life? While magic, science, and religion may seem like stable domains, we examine how the meaning of these categories shifts over time and across contexts, so much so that the difference between them often seems to break down altogether. By focusing on cross-cultural differences in systems of belief, we raise fundamental questions about human nature itself, and the basic human need to interpret and influence events. Students will explore key debates in social scientific (particularly anthropological) research on magic, science, and religion, and conduct their own original research projects involving first-hand observations of magical, scientific, and religious practices.
 
 #### Code of Conduct
 
-Anthropology is a social science governed by a professional Code of Ethics. It enjoins all researchers to respect the dignity of the human beings who are the subjects of their research. In this class, we will encounter diverse systems of belief, some of which we will inevitably disagree with. As students of anthropology, it is important that we use empathy as a resource for understanding the reasons why people maintain beliefs different form our own. It is also a       
-requirement for this class that we extend this same principle to each other as seminar participants       
+Anthropology is a social science governed by a professional Code of Ethics. It enjoins all researchers to respect the dignity of the human beings who are the subjects of their research. In this class, we will encounter diverse systems of belief, some of which we will inevitably disagree with. As students of anthropology, it is important that we use empathy as a resource for understanding the reasons why people maintain beliefs different form our own. It is also a        
+requirement for this class that we extend this same principle to each other as seminar participants        
 with sometimes differing viewpoints.
 
 #### Required Reading
@@ -72,7 +72,3 @@ For more detail on the activities above, see the {{% resource_link "322e6fa2-43a
 - Use of laptops, cell phones or other devices unrelated to the class is strictly forbidden. Please print out the readings and bring paper copies to discussion.
 - Come prepared to discuss and answer questions about all readings.
 - Your grade for class participation is not calculated based on how much you speak, but rather how you contribute to a lively, useful, and sustained conversation both in and out of class.
-
-#### Writing Resources
-
-For help with the mechanics of writing, the [Writing and Communication Center](https://cmsw.mit.edu/writing-and-communication-center/) offers MIT students free one-on-one professional advice from communication experts with advanced degrees and publishing experience. The WCC can help you learn about all types of academic and professional writing and further develop your oral communication skills.
