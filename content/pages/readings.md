@@ -125,7 +125,7 @@ Mediation: How is faith made real? (2)
 Orthodoxy and Heterodoxy: Who controls belief? (1)
 {{< tdclose >}}{{< tdopen >}}
 
-Chireau, Yvonne. “[Conjure and Christianity in the Nineteenth Century:](https://www.cambridge.org/core/journals/religion-and-american-culture/article/abs/conjure-and-christianity-in-the-nineteenth-century-religious-elements-in-african-american-magic/4EA31D87FF0CB9BC7DAA0CE58E220D8C#)              
+Chireau, Yvonne. “[Conjure and Christianity in the Nineteenth Century:](https://www.cambridge.org/core/journals/religion-and-american-culture/article/abs/conjure-and-christianity-in-the-nineteenth-century-religious-elements-in-african-american-magic/4EA31D87FF0CB9BC7DAA0CE58E220D8C#)               
 [Religious Elements in African American Magic](https://www.cambridge.org/core/journals/religion-and-american-culture/article/abs/conjure-and-christianity-in-the-nineteenth-century-religious-elements-in-african-american-magic/4EA31D87FF0CB9BC7DAA0CE58E220D8C#).” *Religion and American* *Culture* 7, no. 2 (1997): 225–46.
 
 Fader, Ayala. “[The Counterpublic of the J(ewish) Blogosphere: Gendered Language and the Mediation of Religious Doubt among Ultra-Orthodox Jews in New York](https://rai.onlinelibrary.wiley.com/doi/10.1111/1467-9655.12697).” *Journal of the Royal Anthropological Institute* 23, no. 4 (2017): 727–47.
@@ -146,10 +146,10 @@ No readings assigned
 Can magic disenchant? (1)
 {{< tdclose >}}{{< tdopen >}}
 
-Binder, Stefan. “[Magic is Science: Atheist Conjuring and the Exposure of](https://www.journals.uchicago.edu/doi/abs/10.1086/705467)           
+Binder, Stefan. “[Magic is Science: Atheist Conjuring and the Exposure of](https://www.journals.uchicago.edu/doi/abs/10.1086/705467)            
 [Superstition in South India](https://www.journals.uchicago.edu/doi/abs/10.1086/705467).” *HAU: Journal of Ethnographic Theor*y 9, no. 2 (2019): 284–98.
 
-Jones, Graham M. “[Modern Magic and the War on Miracles in French](https://www.cambridge.org/core/journals/comparative-studies-in-society-and-history/article/modern-magic-and-the-war-on-miracles-in-french-colonial-culture/1A328B6DB2FCFC71D9756C675228ED0A)          
+Jones, Graham M. “[Modern Magic and the War on Miracles in French](https://www.cambridge.org/core/journals/comparative-studies-in-society-and-history/article/modern-magic-and-the-war-on-miracles-in-french-colonial-culture/1A328B6DB2FCFC71D9756C675228ED0A)           
 [Colonial Culture](https://www.cambridge.org/core/journals/comparative-studies-in-society-and-history/article/modern-magic-and-the-war-on-miracles-in-french-colonial-culture/1A328B6DB2FCFC71D9756C675228ED0A).” *Comparative Studies in Society and History* 52, no. 1 (2010): 66–99.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -214,7 +214,7 @@ No readings assigned
 Conspiricism and Denialism: Why do people reject science?
 {{< tdclose >}}{{< tdopen >}}
 
-Norgaard, Kari Marie. “[‘People Want to Protect Themselves a Little Bit’: Emotions, Denial, and Social Movement Nonparticipation](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1475-682X.2006.00160.x).” *Sociological Inquiry*  
+Norgaard, Kari Marie. “[‘People Want to Protect Themselves a Little Bit’: Emotions, Denial, and Social Movement Nonparticipation](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1475-682X.2006.00160.x).” *Sociological Inquiry*   
 76, no. 3 (2006): 372–96.
 
 Reich, Jennifer A. “[‘We are Fierce, Independent Thinkers and Intelligent’: Social Capital and Stigma Management among Mothers who Refuse Vaccines](https://pubmed.ncbi.nlm.nih.gov/30442504/).” *Social Science & Medicine* 257 (2020): 112015.
@@ -226,11 +226,15 @@ Reich, Jennifer A. “[‘We are Fierce, Independent Thinkers and Intelligent’
 {{< tdclose >}}{{< tdopen >}}
 Can Spirituality and Science be reconciled? (1)
 {{< tdclose >}}{{< tdopen >}}
- 
+
+Callison, Candis. “Blessing the Facts.” Chapter 3 in *How Climate Change Comes to Matter: The Communal Life of Facts*. Duke University Press, 2014. ISBN: ‎9780822357872. \[Preview with [Google Books](https://www.google.com/books/edition/How_Climate_Change_Comes_to_Matter/G52iBgAAQBAJ?hl=en&gbpv=1)\]
+
+Cho, Francisca. “Buddhism and Science: Translating and Re-translating Culture.” Chapter 14 in *Buddhism in the Modern World*. Edited by David L. McMahan. Routledge, 2011. ISBN: ‎9780415780155.
+
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 23
 {{< tdclose >}}{{< tdopen >}}
 Can Spirituality and Science be reconciled? (2)
 {{< tdclose >}}{{< tdopen >}}
- 
+No readings assigned
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
