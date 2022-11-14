@@ -37,6 +37,8 @@ This paper should be 2–3 pages, double spaced, and is due during session 18.
 
 Student Example 1 (PDF)
 
+Student Example 2 (PDF)
+
 *Final Paper* 
 
 Option 1: Pick a scientific or technological issue that is important to you—it could be one of the topics we discuss in class, or something else altogether. Find an example of a source (an article, a speech, a website, a forum post, a comment thread…) that, in your eyes, misunderstands, misrepresents or willfully distorts it (this does not have to be an example from the U.S., if you have the relevant linguistic and cultural knowledge to write about other national settings). Rather than opposing the source with rational arguments based upon your scientific expertise, use one or more of the analytical tools or theoretical perspectives we have developed in class, particularly with respect to magic and religion, to interpret it anthropologically and, if possible, empathetically. In other words, how might the anti-science position be understood as culturally reasonable if not scientifically defensible? Draw on at least two readings in your analysis.
