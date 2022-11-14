@@ -51,4 +51,6 @@ Option 3: Find someone who has experience with a system of belief different from
 
 This paper should be 5–6 pages, double spaced, and is due during session 25.
 
+Student Example - "The Crypto Pill" (PDF)
+
 Note: Unless requested, all student examples appear anonymously.
