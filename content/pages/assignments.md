@@ -53,4 +53,4 @@ This paper should be 5–6 pages, double spaced, and is due during session 25.
 
 Student Example - "The Crypto Pill" (PDF)
 
-Note: Unless requested, all student examples appear anonymously.
+Note: All student examples appear courtesy of MIT students. Unless otherwise requested, all examples appear anonymously.
