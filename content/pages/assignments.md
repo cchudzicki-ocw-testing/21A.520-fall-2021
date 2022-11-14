@@ -23,6 +23,8 @@ Drawing on accounts of spell-craft, divination, and paranormal detection, create
 
 This paper should be 2–3 pages, double spaced, and is due during session 9.
 
+Student Example 1 (PDF)
+
 *Paper 3: Modern Enchantments*
 
 Drawing on the readings, analyze an example of technoscientific enchantment. You may want to focus on the magical discourses surrounding a particular technology, or magico-religious attitudes toward scientific activities. Draw explicitly on at least one of the readings and include specific evidence from your example. 
