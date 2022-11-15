@@ -41,7 +41,7 @@ Student Example 1 (PDF)
 
 Student Example 2 (PDF)
 
-Student Example 3 (PDF) (This example appears courtesy of Nelson Hidalgo Julia.)
+Student Example 3 - "Visibility is Unenchanting but Deception is Magical" (PDF) (Courtesy of Nelson Hidalgo Julia.)
 
 *Final Paper* 
 
