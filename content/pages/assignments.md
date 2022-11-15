@@ -23,7 +23,7 @@ Drawing on accounts of spell-craft, divination, and paranormal detection, create
 
 This paper should be 2–3 pages, double spaced, and is due during session 9.
 
-Student Example 1 (PDF)
+{{% resource_link "7c951283-59b2-4674-b69c-07db52080029" "Student Example 1 (PDF)" %}}
 
 *Paper 3: Modern Enchantments*
 
@@ -37,11 +37,11 @@ Learn how to perform a magic trick—either one taught in class or one that you 
 
 This paper should be 2–3 pages, double spaced, and is due during session 18.
 
-Student Example 1 (PDF)
+{{% resource_link "7c951283-59b2-4674-b69c-07db52080029" "Student Example 1 (PDF)" %}}
 
-Student Example 2 (PDF)
+{{% resource_link "36b0ad7f-91a8-4b37-bf7b-15c8bcda5e19" "Student Example 2 (PDF)" %}}
 
-Student Example 3 - "Visibility is Unenchanting but Deception is Magical" (PDF) (Courtesy of Nelson Hidalgo Julia.)
+{{% resource_link "813a5330-f06d-4a68-b42f-aa04af3cd2ac" "Student Example 3 - \"Visibility is Unenchanting but Deception is Magical\" (PDF)" %}} (Courtesy of Nelson Hidalgo Julia.)
 
 *Final Paper* 
 
@@ -53,6 +53,6 @@ Option 3: Find someone who has experience with a system of belief different from
 
 This paper should be 5–6 pages, double spaced, and is due during session 25.
 
-Student Example - "The Crypto Pill" (PDF)
+{{% resource_link "adcc18d1-5d02-49f9-b67b-1d916c25ac7c" "Student Example - \"The Crypto Pill\" (PDF)" %}}
 
 Note: All student examples appear courtesy of MIT students. Unless otherwise requested, all examples appear anonymously.
