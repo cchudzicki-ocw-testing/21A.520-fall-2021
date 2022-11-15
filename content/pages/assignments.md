@@ -37,7 +37,7 @@ Learn how to perform a magic trick—either one taught in class or one that you 
 
 This paper should be 2–3 pages, double spaced, and is due during session 18.
 
-{{% resource_link "7c951283-59b2-4674-b69c-07db52080029" "Student Example 1 (PDF)" %}}
+{{% resource_link "9583ca09-76d9-4b6a-9f40-41387c5dc949" "Student Example 1 (PDF)" %}}
 
 {{% resource_link "36b0ad7f-91a8-4b37-bf7b-15c8bcda5e19" "Student Example 2 (PDF)" %}}
 
