@@ -43,6 +43,8 @@ This paper should be 2–3 pages, double spaced, and is due during session 18.
 
 {{% resource_link "813a5330-f06d-4a68-b42f-aa04af3cd2ac" "Student Example 3 - \"Visibility is Unenchanting but Deception is Magical\" (PDF)" %}} (Courtesy of Nelson Hidalgo Julia.)
 
+Student Example 4 - "Joys of Magical Performance" (PDF) (Courtesy of Alex Paul-Ajuwape.)
+
 *Final Paper* 
 
 Option 1: Pick a scientific or technological issue that is important to you—it could be one of the topics we discuss in class, or something else altogether. Find an example of a source (an article, a speech, a website, a forum post, a comment thread…) that, in your eyes, misunderstands, misrepresents or willfully distorts it (this does not have to be an example from the U.S., if you have the relevant linguistic and cultural knowledge to write about other national settings). Rather than opposing the source with rational arguments based upon your scientific expertise, use one or more of the analytical tools or theoretical perspectives we have developed in class, particularly with respect to magic and religion, to interpret it anthropologically and, if possible, empathetically. In other words, how might the anti-science position be understood as culturally reasonable if not scientifically defensible? Draw on at least two readings in your analysis.
