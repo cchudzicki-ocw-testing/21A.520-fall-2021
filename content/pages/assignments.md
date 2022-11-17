@@ -43,7 +43,7 @@ This paper should be 2–3 pages, double spaced, and is due during session 18.
 
 {{% resource_link "813a5330-f06d-4a68-b42f-aa04af3cd2ac" "Student Example 3 - \"Visibility is Unenchanting but Deception is Magical\" (PDF)" %}} (Courtesy of Nelson Hidalgo Julia.)
 
-Student Example 4 - "Joys of Magical Performance" (PDF) (Courtesy of Alex Paul-Ajuwape.)
+{{% resource_link "954a5f4e-85ac-447f-82be-1de48ff8f3a4" "Student Example 4 - \"Joys of Magical Performance\" (PDF)" %}} (Courtesy of Alex Paul-Ajuwape.)
 
 *Final Paper* 
 
