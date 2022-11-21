@@ -31,7 +31,7 @@ Drawing on the readings, analyze an example of technoscientific enchantment. Yo
 
 This paper should be 2–3 pages, double spaced, and is due during session 13.
 
-Student Example - "Kikkerman Fish Magic Soap" (PDF)
+{{% resource_link "289fb0f1-57ea-43f3-9eae-1a966fa83626" "Student Example - \"Kikkerman Fish Magic Soap\" (PDF)" %}}
 
 *Paper 4: Magic Performance*
 
