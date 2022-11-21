@@ -23,13 +23,15 @@ Drawing on accounts of spell-craft, divination, and paranormal detection, create
 
 This paper should be 2–3 pages, double spaced, and is due during session 9.
 
-{{% resource_link "7c951283-59b2-4674-b69c-07db52080029" "Student Example 1 (PDF)" %}}
+{{% resource_link "7c951283-59b2-4674-b69c-07db52080029" "Student Example (PDF)" %}}
 
 *Paper 3: Modern Enchantments*
 
 Drawing on the readings, analyze an example of technoscientific enchantment. You may want to focus on the magical discourses surrounding a particular technology, or magico-religious attitudes toward scientific activities. Draw explicitly on at least one of the readings and include specific evidence from your example. 
 
 This paper should be 2–3 pages, double spaced, and is due during session 13.
+
+Student Example - "Kikkerman Fish Magic Soap" (PDF)
 
 *Paper 4: Magic Performance*
 
