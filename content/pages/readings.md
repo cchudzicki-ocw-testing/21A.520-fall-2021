@@ -6,7 +6,7 @@ title: Readings
 uid: 4c1b8511-82a5-46ae-8ab2-cca0ac0322b9
 ---
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
-SES #
+SESS #
 {{< thclose >}}{{< thopen >}}
 TOPICS
 {{< thclose >}}{{< thopen >}}
@@ -145,7 +145,7 @@ Can magic disenchant? (1)
 
 Binder, Stefan. “[Magic is Science: Atheist Conjuring and the Exposure of Superstition in South India](https://www.journals.uchicago.edu/doi/abs/10.1086/705467?cookieSet=1).” *HAU: Journal of Ethnographic Theor*y 9, no. 2 (2019): 284–98.
 
-Jones, Graham M. “[Modern Magic and the War on Miracles in French](https://www.cambridge.org/core/journals/comparative-studies-in-society-and-history/article/modern-magic-and-the-war-on-miracles-in-french-colonial-culture/1A328B6DB2FCFC71D9756C675228ED0A)            
+Jones, Graham M. “[Modern Magic and the War on Miracles in French](https://www.cambridge.org/core/journals/comparative-studies-in-society-and-history/article/modern-magic-and-the-war-on-miracles-in-french-colonial-culture/1A328B6DB2FCFC71D9756C675228ED0A)             
 [Colonial Culture](https://www.cambridge.org/core/journals/comparative-studies-in-society-and-history/article/modern-magic-and-the-war-on-miracles-in-french-colonial-culture/1A328B6DB2FCFC71D9756C675228ED0A).” *Comparative Studies in Society and History* 52, no. 1 (2010): 66–99.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
