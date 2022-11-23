@@ -6,7 +6,7 @@ title: Readings
 uid: 4c1b8511-82a5-46ae-8ab2-cca0ac0322b9
 ---
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
-SESS #
+SES #
 {{< thclose >}}{{< thopen >}}
 TOPICS
 {{< thclose >}}{{< thopen >}}
@@ -69,7 +69,7 @@ Is magic a form of technology? (1)
 
 Bebergal, Peter. “Fear and Soldering.” Chapter 7 in *Strange Frequencies: The Extraordinary Story of the Technological Quest for the Supernatural.* TarcherPerigee, 2018. ISBN: ‎9780143111825. \[Preview with [Google Books](https://www.google.com/books/edition/Strange_Frequencies/OP5RDwAAQBAJ?hl=en&gbpv=1)\]
 
-Miller, Laura. “[Tantalizing Tarot and Cute Cartomancy in Japan](https://www.tandfonline.com/doi/abs/10.1080/10371397.2011.560659?cookieSet=1).” *Japanese Studies* 3, no. 1 (2011): 73–91.
+Miller, Laura. “[Tantalizing Tarot and Cute Cartomancy in Japan](https://www.tandfonline.com/doi/abs/10.1080/10371397.2011.560659?cookieSet=1).” *Japanese Studies* 31, no. 1 (2011): 73–91.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
@@ -103,7 +103,7 @@ No readings assigned
 Mediation: How is faith made real? (1)
 {{< tdclose >}}{{< tdopen >}}
 
-Beliso-De Jesús, Aisha. “[Santería Copresence and the Making of AfricanDiaspora Bodies](https://journal.culanth.org/index.php/ca/article/view/ca29.3.04).” *Cultural Anthropology* 29, no. 3(2014): 503–26.
+Beliso-De Jesús, Aisha. “[Santería Copresence and the Making of African Diaspora Bodies](https://journal.culanth.org/index.php/ca/article/view/ca29.3.04).” *Cultural Anthropology* 29, no. 3 (2014): 503–26.
 
 Srinivas, Tulasi. “Technologies of Wonder.” Chapter 4 in *The Cow in the Elevator: An Anthropology of Wonder*. Duke University Press Books, 2018. ISBN: ‎9780822370796.
 
@@ -125,12 +125,9 @@ Mediation: How is faith made real? (2)
 Orthodoxy and Heterodoxy: Who controls belief? (1)
 {{< tdclose >}}{{< tdopen >}}
 
-Chireau, Yvonne. “[Conjure and Christianity in the Nineteenth Century:](https://www.cambridge.org/core/journals/religion-and-american-culture/article/abs/conjure-and-christianity-in-the-nineteenth-century-religious-elements-in-african-american-magic/4EA31D87FF0CB9BC7DAA0CE58E220D8C#)               
-[Religious Elements in African American Magic](https://www.cambridge.org/core/journals/religion-and-american-culture/article/abs/conjure-and-christianity-in-the-nineteenth-century-religious-elements-in-african-american-magic/4EA31D87FF0CB9BC7DAA0CE58E220D8C#).” *Religion and American* *Culture* 7, no. 2 (1997): 225–46.
+Chireau, Yvonne. “[Conjure and Christianity in the Nineteenth Century: Religious Elements in African American Magic](https://www.cambridge.org/core/journals/religion-and-american-culture/article/abs/conjure-and-christianity-in-the-nineteenth-century-religious-elements-in-african-american-magic/4EA31D87FF0CB9BC7DAA0CE58E220D8C#).” *Religion and American* *Culture* 7, no. 2 (1997): 225–46.
 
 Fader, Ayala. “[The Counterpublic of the J(ewish) Blogosphere: Gendered Language and the Mediation of Religious Doubt among Ultra-Orthodox Jews in New York](https://rai.onlinelibrary.wiley.com/doi/10.1111/1467-9655.12697).” *Journal of the Royal Anthropological Institute* 23, no. 4 (2017): 727–47.
-
-Heterodoxy and Orthodoxy class notes (PDF)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
@@ -146,10 +143,9 @@ No readings assigned
 Can magic disenchant? (1)
 {{< tdclose >}}{{< tdopen >}}
 
-Binder, Stefan. “[Magic is Science: Atheist Conjuring and the Exposure of](https://www.journals.uchicago.edu/doi/abs/10.1086/705467)            
-[Superstition in South India](https://www.journals.uchicago.edu/doi/abs/10.1086/705467).” *HAU: Journal of Ethnographic Theor*y 9, no. 2 (2019): 284–98.
+Binder, Stefan. “[Magic is Science: Atheist Conjuring and the Exposure of Superstition in South India](https://www.journals.uchicago.edu/doi/abs/10.1086/705467?cookieSet=1).” *HAU: Journal of Ethnographic Theor*y 9, no. 2 (2019): 284–98.
 
-Jones, Graham M. “[Modern Magic and the War on Miracles in French](https://www.cambridge.org/core/journals/comparative-studies-in-society-and-history/article/modern-magic-and-the-war-on-miracles-in-french-colonial-culture/1A328B6DB2FCFC71D9756C675228ED0A)           
+Jones, Graham M. “[Modern Magic and the War on Miracles in French](https://www.cambridge.org/core/journals/comparative-studies-in-society-and-history/article/modern-magic-and-the-war-on-miracles-in-french-colonial-culture/1A328B6DB2FCFC71D9756C675228ED0A)            
 [Colonial Culture](https://www.cambridge.org/core/journals/comparative-studies-in-society-and-history/article/modern-magic-and-the-war-on-miracles-in-french-colonial-culture/1A328B6DB2FCFC71D9756C675228ED0A).” *Comparative Studies in Society and History* 52, no. 1 (2010): 66–99.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -172,7 +168,7 @@ How do magicians learn to deceive? (1)
 
 Jones, Graham M. “An Apprenticeship in Cunning.” Chapter 1 in *Trade of the Tricks: Inside the Magician’s Craft*. University of California Press, 2011. ISBN: ‎9780520270473. \[Preview with [Google Books](https://www.google.com/books/edition/Trade_of_the_Tricks/KakwDwAAQBAJ?hl=en&gbpv=1)\]
 
-Rappert, Brian. “[‘Pick a Card, Any Card’: Learning to Deceive and Conceal–with Care](https://scholarworks.sjsu.edu/secrecyandsociety/vol2/iss2/8/).” *Secrecy and Society* 2, no. 2 (2021).
+Rappert, Brian. “[‘Pick a Card, Any Card’: Learning to Deceive and Conceal–with Care](https://scholarworks.sjsu.edu/secrecyandsociety/vol2/iss2/8/).” *Secrecy and Society* 2, no. 2 (2021): 1–41.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 17
@@ -214,8 +210,7 @@ No readings assigned
 Conspiricism and Denialism: Why do people reject science?
 {{< tdclose >}}{{< tdopen >}}
 
-Norgaard, Kari Marie. “[‘People Want to Protect Themselves a Little Bit’: Emotions, Denial, and Social Movement Nonparticipation](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1475-682X.2006.00160.x).” *Sociological Inquiry*   
-76, no. 3 (2006): 372–96.
+Norgaard, Kari Marie. “[‘People Want to Protect Themselves a Little Bit’: Emotions, Denial, and Social Movement Nonparticipation](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1475-682X.2006.00160.x).” *Sociological Inquiry* 76, no. 3 (2006): 372–96.
 
 Reich, Jennifer A. “[‘We are Fierce, Independent Thinkers and Intelligent’: Social Capital and Stigma Management among Mothers who Refuse Vaccines](https://pubmed.ncbi.nlm.nih.gov/30442504/).” *Social Science & Medicine* 257 (2020): 112015.
 
