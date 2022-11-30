@@ -65,7 +65,7 @@ Is magic a form of technology? (1)
 
 Is magic a form of technology? (2)
 
-*In class: Divination workshop with Peter Bebergal*
+*In class: Divination workshop with* [*Peter Bebergal*](https://mitpress.mit.edu/author/peter-bebergal-35221/)
 
 {{< tdclose >}}{{< tdopen >}}
  
