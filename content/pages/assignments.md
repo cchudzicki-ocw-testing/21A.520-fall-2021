@@ -47,7 +47,7 @@ This paper should be 2–3 pages, double spaced, and is due during session 18.
 
 {{% resource_link "954a5f4e-85ac-447f-82be-1de48ff8f3a4" "Student Example 4 - \"Joys of Magical Performance\" (PDF)" %}} (Courtesy of Alex Paul-Ajuwape.)
 
-Student Example 5 (PDF)
+{{% resource_link "1fb81406-8a0a-43ba-97ea-aa3bdedf5c66" "Student Example 5 (PDF)" %}}
 
 *Final Paper* 
 
@@ -61,6 +61,6 @@ This paper should be 5–6 pages, double spaced, and is due during session 25.
 
 {{% resource_link "adcc18d1-5d02-49f9-b67b-1d916c25ac7c" "Student Example 1 - \"The Crypto Pill\" (PDF)" %}}
 
-Student Example 2 (PDF)
+{{% resource_link "da7ce3ea-fddb-4e62-b413-6e7fe5654b83" "Student Example 2 (PDF)" %}}
 
 Note: All student examples appear courtesy of MIT students. Unless otherwise requested, examples appear anonymously.
