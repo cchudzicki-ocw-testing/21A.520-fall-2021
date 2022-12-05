@@ -47,6 +47,8 @@ This paper should be 2–3 pages, double spaced, and is due during session 18.
 
 {{% resource_link "954a5f4e-85ac-447f-82be-1de48ff8f3a4" "Student Example 4 - \"Joys of Magical Performance\" (PDF)" %}} (Courtesy of Alex Paul-Ajuwape.)
 
+Student Example 5 (PDF)
+
 *Final Paper* 
 
 Option 1: Pick a scientific or technological issue that is important to you—it could be one of the topics we discuss in class, or something else altogether. Find an example of a source (an article, a speech, a website, a forum post, a comment thread…) that, in your eyes, misunderstands, misrepresents or willfully distorts it (this does not have to be an example from the U.S., if you have the relevant linguistic and cultural knowledge to write about other national settings). Rather than opposing the source with rational arguments based upon your scientific expertise, use one or more of the analytical tools or theoretical perspectives we have developed in class, particularly with respect to magic and religion, to interpret it anthropologically and, if possible, empathetically. In other words, how might the anti-science position be understood as culturally reasonable if not scientifically defensible? Draw on at least two readings in your analysis.
@@ -57,6 +59,8 @@ Option 3: Find someone who has experience with a system of belief different from
 
 This paper should be 5–6 pages, double spaced, and is due during session 25.
 
-{{% resource_link "adcc18d1-5d02-49f9-b67b-1d916c25ac7c" "Student Example - \"The Crypto Pill\" (PDF)" %}}
+{{% resource_link "adcc18d1-5d02-49f9-b67b-1d916c25ac7c" "Student Example 1 - \"The Crypto Pill\" (PDF)" %}}
+
+Student Example 2 (PDF)
 
 Note: All student examples appear courtesy of MIT students. Unless otherwise requested, examples appear anonymously.
